@@ -25,5 +25,5 @@ nano best.txt (Escribo otra cosa)
 git merge conflict
 git checkout --ours best.txt
 git add best.txt
-git commit -m "a"
+git commit -m "a"**
 
