@@ -23,7 +23,7 @@ Para realizar los siguientes ejercicios debes investigar sobre los parámetros -
 16. Utilizando git reset, deshaz el commit previo y devuelve los cambios al directorio de trabajo. : **git reset --mixed**
 17. Añade el fichero second.txt otra vez al área de preparación. **git add second.txt**
 18. Haz un commit con el mensaje "Trying to commit again". **git commit -m "Trying to commit again"**
-19. Utilizando git reset deshaz el commit previo y devuelve los cambios al área de preparación. **git resert --soft**
+19. Utilizando git reset deshaz el commit previo y devuelve los cambios al área de preparación. **git reset --soft**
 20. Haz commit con el mensaje "Trying to commit again and again". **git commit -m "Trying to commit again to again"**
 21. Utilizando git reset deshaz el commit previo para que ningún cambio aparezca en el directorio de trabajo.**git reset --hard**
 22. ¡Date una palmadita en la espalda! ¡Acabas de realizar un flujo de trabajo bastante complejo de git! **git commit -m "palmadita en la espalda"**
